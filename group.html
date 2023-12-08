@@ -22,10 +22,10 @@
     <section id="photoSection">
         <h2>Наша Фотогалерея</h2>
         <div class="photo">
-            <img src="C:\Users\yurak\Downloads\photo_2023-12-07_20-28-37.jpg">
+            <img src="photo_2023-12-07_20-28-37.jpg">
         </div>
         <div class="photo">
-            <img src="C:\Users\yurak\Downloads\photo_2023-12-07_20-28-39.jpg">
+            <img src="photo_2023-12-07_20-28-39.jpg">
         </div>
         
         
@@ -44,7 +44,7 @@
 
             <div class="member">
                 <div class="member-photo">
-                    <img src="C:\Users\yurak\Downloads\photo_2023-11-26_13-06-58.jpg" alt="Member 1 Photo">
+                    <img src="photo_2023-11-26_13-06-58.jpg" alt="Member 1 Photo">
                 </div>
                 <div>
                     <h3>Юрій Кирчей</h3>
@@ -54,7 +54,7 @@
 
             <div class="member">
                 <div class="member-photo">
-                    <img src="C:\Users\yurak\Downloads\photo_2023-12-07_23-45-47.jpg">
+                    <img src="photo_2023-12-07_23-45-47.jpg">
                 </div>
                 
                 <div>
@@ -64,7 +64,7 @@
             </div>
             <div class="member">
                 <div class="member-photo">
-                     <img src="C:\Users\yurak\Downloads\360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg" alt="Member 1 Photo">
+                     <img src="360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg" alt="Member 1 Photo">
                 </div>
                
                 <div>
@@ -74,7 +74,7 @@
             </div>
             <div class="member">
                 <div class="member-photo">
-                    <img src="C:\Users\yurak\Downloads\photo_2023-12-07_23-46-45.jpg">
+                    <img src="photo_2023-12-07_23-46-45.jpg">
                 </div>
                 
                 <div>
@@ -84,7 +84,7 @@
             </div>
             <div class="member">
                 <div class="member-photo">
-                     <img src="C:\Users\yurak\Downloads\photo_2023-12-07_23-53-05.jpg" alt="Member 1 Photo">
+                     <img src="photo_2023-12-07_23-53-05.jpg" alt="Member 1 Photo">
                 </div>
                
                 <div>
@@ -94,7 +94,7 @@
             </div>
             <div class="member">
                 <div class="member-photo">
-                    <img src="C:\Users\yurak\Downloads\photo_2023-12-07_23-57-00.jpg" alt="Member 1 Photo">
+                    <img src="photo_2023-12-07_23-57-00.jpg" alt="Member 1 Photo">
                 </div>
                 
                 <div>
@@ -104,7 +104,7 @@
             </div>
             <div class="member">
                 <div class="member-photo">
-                     <img src="C:\Users\yurak\Downloads\photo_2023-12-07_23-49-02.jpg" alt="Member 1 Photo">
+                     <img src="photo_2023-12-07_23-49-02.jpg" alt="Member 1 Photo">
                 </div>
                
                 <div>
@@ -114,7 +114,7 @@
             </div>
             <div class="member">
                 <div class="member-photo">
-                     <img src="C:\Users\yurak\Downloads\photo_2023-12-07_23-50-04.jpg" alt="Member 1 Photo">
+                     <img src="photo_2023-12-07_23-50-04.jpg" alt="Member 1 Photo">
                 </div>
                
                 <div>
@@ -124,7 +124,7 @@
             </div>
             <div class="member">
                 <div class="member-photo">
-                    <img src="C:\Users\yurak\Downloads\360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg" alt="Member 1 Photo">
+                    <img src="360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg" alt="Member 1 Photo">
                 </div>
                 
                 <div>
@@ -135,7 +135,7 @@
 
             <div class="member">
                 <div class="member-photo">
-                    <img src="C:\Users\yurak\Downloads\360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg" alt="Member 1 Photo">
+                    <img src="360_F_549983970_bRCkYfk0P6PP5fKbMhZMIb07mCJ6esXL.jpg" alt="Member 1 Photo">
                 </div>
                 
                 <div>
@@ -145,7 +145,7 @@
             </div>
             <div class="member">
                 <div class="member-photo">
-                    <img src="C:\Users\yurak\Downloads\photo_2023-12-07_23-51-09.jpg" alt="Member 1 Photo">
+                    <img src="photo_2023-12-07_23-51-09.jpg" alt="Member 1 Photo">
                 </div>
                 
                 <div>
